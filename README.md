@@ -14,3 +14,4 @@ Adding a commit from 'main' branch.
 
 First commit added from 'refactor' branch.
 
+Second commit added from 'refactor' branch.
