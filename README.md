@@ -16,4 +16,11 @@ First commit added from 'refactor' branch.
 
 Second commit added from 'refactor' branch.
 
+
 Adding a commit from 'origin/main' branch.
+
+First commit from `squash-changes` branch.
+
+Second commit from `squash-changes` branch.
+
+Third commit from `squash-changes` branch.
